@@ -1,1 +1,1 @@
-I enjoy producing reports using python libraries incuding and not limited to matplotlib and seaborn :)
+I enjoy producing reports using python libraries incuding and not limited to matplotlib and seaborn.
