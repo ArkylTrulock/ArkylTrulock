@@ -7,6 +7,9 @@ I use various python libraries including (but not limited to) pandas, numpy, mat
 If you have any questions please contact me via [linkedin](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/).
 
 
-# Table Of Contents
-. Portfolio Projects
-  - SQL
+## Table Of Contents
+- Portfolio Projects
+   
+   - SQL
+     - [Job Data Analysis]()
+     - [Netflix Data Analysis]()
