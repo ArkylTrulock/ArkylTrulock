@@ -11,5 +11,5 @@ If you have any questions please contact me via [linkedin](https://www.linkedin.
 - [Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VYM_AX)
    
    - SQL
-     - [Job Data Analysis]()
+     - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Job_Data_Analysis)
      - [Netflix Data Analysis]()
