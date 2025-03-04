@@ -6,6 +6,7 @@ I use various python libraries including (but not limited to) pandas, numpy, mat
 
 If you have any questions please contact me via [linkedin](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/).
 
+My CV in [PDF](https://drive.google.com/file/d/1QZLMnJwTQ5RE2QKJyvQszEOLOE6dQa_C/view?usp=drive_link)
 
 ## Table Of Contents
 - [Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VYM_AX)
