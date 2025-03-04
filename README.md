@@ -11,6 +11,6 @@ I use Python libraries such as **pandas, numpy, matplotlib, and seaborn** to con
 ## 📌 Table Of Contents
 - ### 📊[Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VYM_AX)**
    
-   - **[SQL]()**
+   - **[SQL](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects)**
      - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Job_Data_Analysis)
      - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Netflix_Data_Analysis)
