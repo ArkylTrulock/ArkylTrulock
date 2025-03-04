@@ -14,6 +14,9 @@ I use **`SQL`** and Python libraries such as **`pandas`, `numpy`, `matplotlib`, 
    - **[SQL](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects)**
      - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Job_Data_Analysis)
      - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Netflix_Data_Analysis)
+    
+   - **[Python]()**
+     - [Coffee Sales Analysis]()
 
 
 
