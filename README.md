@@ -8,7 +8,7 @@ If you have any questions please contact me via [linkedin](https://www.linkedin.
 
 
 ## Table Of Contents
-- Portfolio Projects
+- [Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VYM_AX)
    
    - SQL
      - [Job Data Analysis]()
