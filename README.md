@@ -2,7 +2,7 @@ Hello!😄
 
 I enjoy analysing, visualising and interpreting data.
 
-I use Python libraries such as **`pandas`, `numpy`, `matplotlib`, and `seaborn`** to conduct data analysis and create visually engaging reports. 
+I use **`SQL`** and Python libraries such as **`pandas`, `numpy`, `matplotlib`, and `seaborn`** to conduct data analysis and create visually engaging reports. 
 
 📩 **Let's Connect**: **[Linkedin Profile](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/)**
 
