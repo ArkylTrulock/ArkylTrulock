@@ -12,4 +12,4 @@ If you have any questions please contact me via [linkedin](https://www.linkedin.
    
    - SQL
      - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Job_Data_Analysis)
-     - [Netflix Data Analysis]()
+     - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/SQL_Projects/Netflix_Data_Analysis)
