@@ -18,6 +18,8 @@ I use **`SQL`** and Python libraries such as **`pandas`**, **`numpy`**, **`matpl
    - **[Python](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/Python_Projects)**
      - [Coffee Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/Python_Projects/Coffee_Sales_Data_Analysis)
 
+   - **Excel**
+     - [Netflix Data Analysis](https://1drv.ms/x/c/6d0751742ec7e280/EXIMmZsF69NOhxInM5TEZ4MBxS5P7QNAVvkLCRmTUlwgiQ?e=FQenLW) 
 
 
 🚀 *Always eager to collaborate and learn!*
