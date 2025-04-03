@@ -21,5 +21,7 @@ I use **`SQL`** and Python libraries such as **`pandas`**, **`numpy`**, **`matpl
    - **Excel**
      - [Netflix Data Analysis](https://1drv.ms/x/c/6d0751742ec7e280/EXIMmZsF69NOhxInM5TEZ4MBxS5P7QNAVvkLCRmTUlwgiQ?e=FQenLW) 
 
+   - **Tableau**
+      - [Netflix Data Analysis](https://public.tableau.com/views/NetflixDataAnalysis_17434509465720/Dashboard1_1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🚀 *Always eager to collaborate and learn!*
