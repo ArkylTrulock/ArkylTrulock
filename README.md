@@ -16,7 +16,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
      - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main/SQL_Projects/Netflix_Data_Analysis)
     
    - **[Python](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/Python_Projects)**
-     - [Coffee Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VYM_AX/tree/main/Python_Projects/Coffee_Sales_Data_Analysis)
+     - [Coffee Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main/Py_Projects/Coffee_Sales_Data_Analysis)
 
    - **Excel**
      - [Netflix Data Analysis](https://1drv.ms/x/c/6d0751742ec7e280/EXIMmZsF69NOhxInM5TEZ4MBxS5P7QNAVvkLCRmTUlwgiQ?e=FQenLW) 
