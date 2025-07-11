@@ -9,7 +9,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
 📄 **My CV**: **[PDF](https://drive.google.com/file/d/1Rw3DszhuJBjzTqaeV-9PlnX6N-sIfWdG/view?usp=drive_link)**
 
 ## 📌 Table Of Contents
-- ### 📊[Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main)
+- ### 📊[Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VA/tree/main)
    
    - **[SQL](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects)**
      - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main/SQL_Projects/Job_Data_Analysis)
