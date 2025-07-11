@@ -12,7 +12,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
 - ### 📊[Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VA/tree/main)
    
    - **[SQL](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects)**
-     - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main/SQL_Projects/Job_Data_Analysis)
+     - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects/Job_Data_Analysis)
      - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VYMAX/tree/main/SQL_Projects/Netflix_Data_Analysis)
     
    - **[Python](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects)**
