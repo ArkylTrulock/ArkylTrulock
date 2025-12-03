@@ -14,12 +14,12 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
    - **[SQL](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects)**
      - [Job Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects/Job_Data_Analysis)
      - [Netflix Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects/Netflix_Data_Analysis)
-     - [Pizza Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects/Pizza_Sales_Data_Analysis)
+     - [Pizza Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/SQL_Projects/Pizza_Sales_Data_Analysis/)
     
    - **[Python](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects)**
      - [Coffee Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects/Coffee_Sales_Data_Analysis)
      - [Fashion Retail Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects/Fashion_Retail_Sales_Data_Analysis)
-     - [Pizza Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects/Pizza_Sales_Data_Analysis)
+     - [Pizza Sales Data Analysis](https://github.com/ArkylTrulock/Analytics_VA/tree/main/Python_Projects/Pizza_Sales_Data_Analysis/2_Descriptive_Sales_Analysis/Assets)
 
    - **Excel**
      - [Netflix Data Analysis](https://1drv.ms/x/c/6d0751742ec7e280/EXIMmZsF69NOhxInM5TEZ4MBxS5P7QNAVvkLCRmTUlwgiQ?e=FQenLW) 
