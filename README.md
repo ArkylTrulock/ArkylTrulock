@@ -24,7 +24,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
    - **Excel**
      - [Netflix Data Analysis - SQL](https://1drv.ms/x/c/6d0751742ec7e280/EXIMmZsF69NOhxInM5TEZ4MBxS5P7QNAVvkLCRmTUlwgiQ?e=FQenLW)
      - [Fashion Sales Data Analysis - Python](https://docs.google.com/spreadsheets/d/1eEIZoz18fvxtuiLY5kxqwg4RCO1JNpbo/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
-     - [Pizza Sales Data Analysis - Python](https://docs.google.com/spreadsheets/d/1CdRFr_NXbdiOMI40xCcFe1MlS0QmkWYr/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
+     - [Pizza Sales Data Analysis - Python](https://docs.google.com/spreadsheets/d/170RVkIVxIMewd7zZF06OLvdX9Q8kKTsH/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
      - [Pizza Sales Data Analysis - SQL](https://docs.google.com/spreadsheets/d/1BR28nBkGdym5maftcaeRWi5F97saiN_Z/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
   
    - **Tableau**
