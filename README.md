@@ -26,7 +26,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
      - [Fashion Sales Data Analysis - Python](https://docs.google.com/spreadsheets/d/1eEIZoz18fvxtuiLY5kxqwg4RCO1JNpbo/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
      - [Pizza Sales Data Analysis - SQL & Python](https://1drv.ms/x/c/6d0751742ec7e280/IQCMmXQLm5hbSLhFoQwvZrN2Abvsh_aO6pb5tX1Ox7ZCQHY?e=iYqIBg)
     
-     - **Google Sheets**
+  - **Google Sheets**
      - [Pizza Sales Data Analysis - Python](https://docs.google.com/spreadsheets/d/170RVkIVxIMewd7zZF06OLvdX9Q8kKTsH/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
      - [Pizza Sales Data Analysis - SQL](https://docs.google.com/spreadsheets/d/1xc4s9ICjevkEvT7h34oaaSiZ0D8jigoQ/edit?usp=sharing&ouid=101580081632686154665&rtpof=true&sd=true)
   
