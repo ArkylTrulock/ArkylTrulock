@@ -33,5 +33,8 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
   
    - **Tableau**
       - [Netflix Data Analysis](https://public.tableau.com/views/NetflixDataAnalysis_17434509465720/Dashboard1_1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+        
+    - **Streamlit**
+      - [California Housing Market Dashboard](https://california-housing-market-app.streamlit.app/)
 
 🚀 *Always eager to collaborate and learn!*
