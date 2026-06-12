@@ -4,7 +4,7 @@ I enjoy analysing, visualising and interpreting data.
 
 I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **`matplotlib`**, and **`seaborn`** to conduct data analysis and create visually engaging reports. 
 
-📩 **Let's Connect**: **[Linkedin Profile](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/)**
+📩 **Let's Connect**: **[LinkedIn Profile](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/)**
 
 📄 **My CV**: **[PDF](https://drive.google.com/file/d/1PanXfFh9B99r11yts7nQ1F66a_renDJ7/view?usp=drive_link)**
 
