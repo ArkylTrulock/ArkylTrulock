@@ -6,7 +6,7 @@ I use **`SQL`** and **`Python`** libraries such as **`pandas`**, **`numpy`**, **
 
 📩 **Let's Connect**: **[LinkedIn Profile](https://www.linkedin.com/in/vernyuy-yenwo-molo-7b965b47/)**
 
-📄 **My CV**: **[PDF](https://drive.google.com/file/d/1PanXfFh9B99r11yts7nQ1F66a_renDJ7/view?usp=drive_link)**
+📄 **My CV**: **[PDF](https://drive.google.com/file/d/1Cgy-NW_NCOl0PTgH5weKH9IucsEsoTq7/view?usp=drive_link)**
 
 ## 📌 Table Of Contents
 - ### 📊[Portfolio Projects](https://github.com/ArkylTrulock/Analytics_VA/tree/main)
